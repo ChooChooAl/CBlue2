@@ -125,22 +125,22 @@ StScrollBar StButton#hhandle:hover, StScrollBar StButton#vhandle:hover {
 
 .popup-menu {
     color: #FFFFFF;
-    font-size: 20pt;
+    font-size: 18pt;
     min-width: 150px;
     background-color: #353945;
     box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.75);
 }
 
 .menu {
-/*    box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.75); */
     background-color: black; /*#353945; */
     border: 0px solid #FFFFFF;
     border-radius: 16px 16px 0 0 ;
     color: #FFFFFF;
-    font-size: 18pt;
+    font-size: 16pt;
     min-width: 150px;
     border-top: 2px;
     border-right: 2px;
+    border-left: 2px;
 }
 
 .popup-menu-arrow {
@@ -1233,24 +1233,20 @@ StScrollBar StButton#hhandle:hover, StScrollBar StButton#vhandle:hover {
  * Menu (menu.js)
  * ===================================================================*/
 
-/* Main menu title
-menu-background allows the menu applet to be themed separately from other applet menus */
+/* menu-background allows the menu applet to be themed separately from other applet menus */
 .menu-background {
-    background-color: #030512;    /* match panel */     /* was #05060C;  */
+    background-color: #030512;    /* match panel */
 }
 
-.menu-top-box {
-    spacing: 10px;
-}
+.menu-top-box { spacing: 10px; }
 
-.menu-systembuttons-box {}
+.menu-systembuttons-box { }
 
-/* Main menu title */
 .menu-favorites-box {
     padding: 10px;
     border: 0px solid #5294E2;
-    border-right: 6px;
-    border-radius: 15px;
+    border-right: 1px;
+    border-radius: 0px;
     transition-duration: 300;
 }
 
@@ -1290,22 +1286,23 @@ menu-background allows the menu applet to be themed separately from other applet
     color: white;
     padding: 7px;
     border: 2px solid transparent;
+    font-size: 16pt;
 }
 
 .menu-application-button:highlighted {
-/* This style is used in menu application buttons for applications which were newly installed */
+/* This style is used for newly installed applications */
     font-weight: bold;
     border: 2px solid transparent;
 }
 
 .menu-application-button-selected {
     padding: 7px;
-    color: #9CC9FF; /*white; */
+    color: #9CC9FF;
     border: 2px solid #5294E2;
 }
 
 .menu-application-button-selected:highlighted {
-/* This style is used in menu application buttons for applications which were newly installed */
+/* This style is used for newly installed applications */
     font-weight: bold;
     border: 2px solid transparent;
 }
@@ -1417,7 +1414,7 @@ menu-background allows the menu applet to be themed separately from other applet
 }
 
 /* Context menu (at the moment only for favorites) */
-.menu-context-menu {}
+.menu-context-menu { }
 
 /* ===================================================================
  * Window list (windowList.js)
