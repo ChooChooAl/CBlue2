@@ -178,12 +178,12 @@ StScrollBar StButton#hhandle:hover, StScrollBar StButton#vhandle:hover {
     spacing: 1em; }
 
 .popup-separator-menu-item {
-	/* first exterior and then center */
-	-gradient-height: 2px;
-	-gradient-start: #5294E2;
-	-gradient-end: white;
-	-margin-horizontal: 0em;
-	height: .3em; }
+    /* first exterior and then center */
+    -gradient-height: 3px;
+    -gradient-start: #5294E2;
+    -gradient-end: #FFFFFF;
+    -margin-horizontal: 0em;
+    height: .3em; }
 
 .popup-alternating-menu-item:alternate {
     font-weight: bold; }
