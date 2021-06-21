@@ -1043,7 +1043,7 @@ menu-background allows the menu applet to be themed separately from other applet
 .menu-favorites-box {
     padding: 10px;
     border: 0px solid #5294E2;
-    border-right: 1px;
+    border-right: 2px;
     border-radius: 0px;
     transition-duration: 300; }
 
