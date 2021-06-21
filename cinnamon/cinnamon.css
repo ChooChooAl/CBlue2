@@ -1655,7 +1655,7 @@ menu-background allows the menu applet to be themed separately from other applet
 
 .user-icon, .hover-user-icon {
     border-radius: 1px;
-    border: 2px solid #5294E2; }
+    border: 3px solid #5294E2; }
 
 /* ===================================================================
  * Overview corner
