@@ -587,8 +587,8 @@ StScrollBar StButton#hhandle:hover, StScrollBar StButton#vhandle:hover {
 .datemenu-date-label {
     padding: .4em 1.75em;
     text-align: center;
-	color: #5294E2;
-    font-weight: bold;
+    color: #5294E2;
+    font-weight: normal;
     font-size: 110%; }
 
 .calendar-day-base {
@@ -604,7 +604,7 @@ StScrollBar StButton#hhandle:hover, StScrollBar StButton#vhandle:hover {
     color: #FFFFFF; }
 
 .calendar-day-base:active {
-    font-weight: bold; }
+    font-weight: normal; }
 
 .calendar-day-heading {
     padding-top: 0.5em;
