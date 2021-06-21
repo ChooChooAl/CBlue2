@@ -1737,24 +1737,14 @@ menu-background allows the menu applet to be themed separately from other applet
 .desklet:highlight, .desklet:highlight-with-borders, .desklet:highlight-with-borders-and-header {
     background-color: #39679C; }
 
-.desklet-with-borders {
-    border: 1px solid #5294E2;
-  	border-bottom: 3px;
-    border-left: 0px;
-    border-right: 0px;
-    border-top: 0px;
-/*    background-color: #0C1521; */
-	border-radius: 3px;
+.desklet-with-borders-and-header, .desklet-with-borders {
+    border: 0px solid #5294E2;
+    border-bottom: 4px;
+    border-right: 4px;
+    background-color: #050714;
+    border-radius: 20px;
     color: #FFFFFF; }
 
-.desklet-with-borders-and-header {
-    border: 1px solid #000180;
-    border-bottom: 3px;
-    border-left: 0px;
-    border-right: 0px;
-    border-top: 0px;
-/*    background-color: #0C1521; */
-    color: #5A65BD; }
 
 .desklet-header {
     border-radius-topleft: 1px;
