@@ -664,7 +664,7 @@ StScrollBar StButton#hhandle:hover, StScrollBar StButton#vhandle:hover {
     border: 2px solid #5294E2;
 	border-radius: 5px;
     background-color: #030512;
-    padding: 8px;
+    padding: 5px 15px;
     spacing-rows: 18px;
     spacing-columns: 10px;
     margin-from-right-edge-of-screen: 100px;
