@@ -109,18 +109,16 @@ StScrollBar StButton#hhandle:hover, StScrollBar StButton#vhandle:hover {
     color: #FFFFFF;
     font-size: 18pt;
     min-width: 150px;
-    background-color: #353945;
+    background-color: #050714;
     box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.75); }
 
 .menu {
-    background-color: black; /*#353945; */
-    border: 0px solid #FFFFFF;
-    border-radius: 16px 16px 0 0 ;
+    background-color: #050714;
+    border: 3px solid #5294E2;
+    border-radius: 15px;
     color: #FFFFFF;
     font-size: 16pt;
-    min-width: 150px;
-    border-top: 2px;
-    border-right: 2px; }
+    min-width: 150px; }
 
 .popup-menu-arrow {
     icon-size: 1.1em; }
