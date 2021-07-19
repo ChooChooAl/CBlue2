@@ -14,7 +14,7 @@
 <constant name="C_title_unfocused" value="#333333" />
 
 <constant name="C_wm_bg_focused" value="#244266" />    <!--  edit these  primary-->
-<constant name="C_wm_bg_unfocused" value="#B0B0B0" />    <!--  edit these  secondary -->
+<constant name="C_wm_bg_unfocused" value="#B0B0D2" />    <!--  edit these  secondary -->
 
 <constant name="C_wm_border" value="#244266" />    <!--  edit these  primary -->
 
