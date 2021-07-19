@@ -3389,7 +3389,7 @@ NautilusListView .view, NautilusListView iconview {
       color: #FFFFFF;
       background-color: @theme_selected_bg_color; }
 
- /* alk hover on sidebar folders */
+ /* hover on sidebar folders */
   .nemo-window .nemo-places-sidebar.frame {
     border-width: 0; }
 
