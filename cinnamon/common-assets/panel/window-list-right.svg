@@ -16,7 +16,7 @@
    id="svg6621"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="window-list-left.svg">
+   sodipodi:docname="window-list-hover-left.svg">
   <defs
      id="defs6623">
     <linearGradient
@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="4.1724062"
-     inkscape:cy="17.379022"
+     inkscape:cx="23.09909"
+     inkscape:cy="17.384719"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,13 +81,13 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <rect
-       style="opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32931268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:1;fill:#5a65bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32930982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect4157"
-       width="31.943001"
+       width="31.942862"
        height="4"
-       x="1020.4624"
+       x="1020.4625"
        y="-32.202"
-       rx="1.545629"
+       rx="1.5456223"
        ry="0"
        transform="rotate(90)" />
   </g>

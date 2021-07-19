@@ -16,7 +16,7 @@
    id="svg6621"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="window-list-bottom.svg">
+   sodipodi:docname="window-list-hover-bottom.svg">
   <defs
      id="defs6623">
     <linearGradient
@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-8.4720011"
-     inkscape:cy="31.41076"
+     inkscape:cx="-23.100273"
+     inkscape:cy="28.052003"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,11 +81,11 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <rect
-       style="opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.19651747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:1;fill:#5a65bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.19651747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect4157"
        width="32.03125"
        height="4"
-       x="1.0197798e-08"
+       x="-0.088388354"
        y="1020.3881"
        rx="1.5498992"
        ry="0" />
