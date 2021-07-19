@@ -4147,7 +4147,7 @@ window.background.lightdm .lightdm-combo {
 
 @define-color nemo_bg #606060; /*#994D4D; #502020;*/
 @define-color gray_bg #F8F8F8;  /* background for list buttons like settings->themes */
-@define-color yellow_text #00FFFF;
+@define-color yellow_text #FFFF00;
 @define-color white_text #FFFFFF;
 @define-color theme_bg_color_dark #D0D0D0;
 @define-color theme_bg_color #EEEEEE; /* #FFCDCC is an interesting light red/wine that kinda works.
