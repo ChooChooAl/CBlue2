@@ -1365,7 +1365,7 @@ treeview.view {
   treeview.view:disabled {
     color: rgba(32, 32, 32, 0.55); }
     treeview.view:disabled:selected {
-      color: #da9d9b; }
+      color: #DFDFDF; }
   treeview.view.separator {
     min-height: 2px;
     color: rgba(0, 0, 0, 0.1); }
