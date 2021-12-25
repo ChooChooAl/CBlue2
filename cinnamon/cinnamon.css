@@ -1719,7 +1719,7 @@ menu-background allows the menu applet to be themed separately from other applet
 
 .applet-icon {
     color: #FFFFFF;
-    icon-size: 22px; }
+    icon-size: 1.5em; }
 
 .applet-box:checked .applet-icon, .applet-box:hover .applet-icon {
     color: #FFFFFF;
