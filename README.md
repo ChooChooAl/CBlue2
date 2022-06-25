@@ -10,12 +10,10 @@ I have only tested this on Linux Mint Cinnamon 19 & 20.   I have not used Ubuntu
 Thanks to bundy01 at https://cinnamon-spices.linuxmint.com/themes/view/CBlue
 I liked the theme and modified it for the larger fonts, some colors and removed transparency.
 
-Note: I also have a 2 Icon Theme repositories that you may want to download.
+Note: I also have 2 Icon Theme repositories that you may want to download.
 
 INSTALLATION:
 Copy the CBlue2 folder into ~/.themes folder for personal use.
 Copy to /usr/share/themes for global use.
 Use Settings->Themes to select the appropriate theme for desktop, controls and borders.
 Right click on the menu button in the panel, select 'configure' and edit the text box (should be blank), and set the menu icon to the blank.png included with CBlue2 theme.
-CBlue2 theme has an icon for the start menu built in.
-
